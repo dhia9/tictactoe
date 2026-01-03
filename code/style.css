@@ -1,0 +1,27 @@
+
+
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top:10rem ;
+
+
+}
+div{
+    border: 1px solid black;
+    min-width: 3rem;
+    min-height: 3rem;
+}
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+button{
+    margin: 0 auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
